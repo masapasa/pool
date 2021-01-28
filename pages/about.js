@@ -9,7 +9,7 @@ export default function AboutPage() {
           About Me
         </h1>
         <p className="text-l p-5 text-center text-gray-900">
-          Hi, I'm Hawley. I work at Arthena. Welcome to my website. I also make art, playlists, and own an adorable cat named Mouse.
+          Hi, I'm Aswin. I work at Arthena. Welcome to my website. I also make art, playlists, and own an adorable cat named Mouse.
         </p>
       </div>
     </div>
